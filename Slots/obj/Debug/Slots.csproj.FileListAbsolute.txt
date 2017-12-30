@@ -1,0 +1,19 @@
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\bin\Debug\Slots.exe.config
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\bin\Debug\Slots.exe
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\bin\Debug\Slots.pdb
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\obj\Debug\Slots.csprojResolveAssemblyReference.cache
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\obj\Debug\Slots.Form1.resources
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\obj\Debug\Slots.Properties.Resources.resources
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\obj\Debug\Slots.csproj.GenerateResource.Cache
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\obj\Debug\Slots.csproj.CoreCompileInputs.cache
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\obj\Debug\Slots.exe
+C:\Users\Sashintha Tennakoon\Desktop\Slots\Slots\obj\Debug\Slots.pdb
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\bin\Debug\Slots.exe.config
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\bin\Debug\Slots.exe
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\bin\Debug\Slots.pdb
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\obj\Debug\Slots.csprojResolveAssemblyReference.cache
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\obj\Debug\Slots.Form1.resources
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\obj\Debug\Slots.Properties.Resources.resources
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\obj\Debug\Slots.csproj.GenerateResource.Cache
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\obj\Debug\Slots.exe
+R:\DYOUV\VICS3U4C 2017\Students\Tennakoon, Sashintha\Unit 2 - C Sharp\Assignment 8\Slots\Slots\obj\Debug\Slots.pdb
